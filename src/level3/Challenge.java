@@ -27,6 +27,7 @@ public class Challenge extends Head {
 	driveDirect(400,300);
 	sleep(6000);
 	driveDirect(500,500);
+	sleep(2000);
 	
 	}
 }
